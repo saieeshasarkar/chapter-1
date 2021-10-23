@@ -15,10 +15,10 @@ $email = "abcya@abc.com";
 
 echo "test";
 
-echo "name: $name";
+echo "name: $name <br>"; 
 
-echo "Age: $age";
+echo "Age: $age <br>";
 
-echo "email: $email";
+echo "email: $email <br>";
 
 ?>
