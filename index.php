@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-<body>
+<body> test
 
 <?php
-echo "My first PHP script!";
+echo "test php";
 ?>
 
 </body>
