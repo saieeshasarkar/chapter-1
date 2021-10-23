@@ -19,9 +19,10 @@ echo "test";
 echo "name: $name <br>"; 
 
 echo "Age:";
+ 
 
 echo $year - $dob;
-
+echo "<br>"; 
 echo "email: $email <br>";
 
 ?>
