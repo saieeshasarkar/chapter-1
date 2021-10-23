@@ -10,14 +10,17 @@ echo "test php";
 </html>
 <?php
 $name = "Saieesha";
-$age = 12;
+$dob = 2009;
+$year = 2021;
 $email = "abcya@abc.com";
 
 echo "test";
 
 echo "name: $name <br>"; 
 
-echo "Age: $age <br>";
+echo "Age:";
+
+echo $year - $dob;
 
 echo "email: $email <br>";
 
